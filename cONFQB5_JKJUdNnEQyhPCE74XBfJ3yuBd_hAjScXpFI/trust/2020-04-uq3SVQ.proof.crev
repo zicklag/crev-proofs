@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-04-04T01:08:45.211295359+00:00"
+from:
+  id-type: crev
+  id: cONFQB5_JKJUdNnEQyhPCE74XBfJ3yuBd_hAjScXpFI
+  url: "https://github.com/zicklag/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: low
+comment: |-
+  I pretty much trust dpc, but I haven't reviewed any of his code or other reviews myself
+  yet. I just know him as the author of crev ( great! ) and slog ( also looks neat ) :).
+  
+  I will likely upgrade to normal trust level later.
+----- SIGN CREV PROOF -----
+OZMASt7u5kix0pyx4YTJHK34Ty0YroVskwL1BaOuE40_Hqs6G9bhhZoF-bPMorNZc3yFdADFGDWpxYU_6awfAg
+----- END CREV PROOF -----
+
